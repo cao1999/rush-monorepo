@@ -1,0 +1,100 @@
+// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
+  "packages": [
+    {
+      "name": "@monorepo/track",
+      "allowedCategories": [
+        "production"
+      ]
+    },
+    {
+      "name": "@monorepo/intl",
+      "allowedCategories": [
+        "production"
+      ]
+    },
+    {
+      "name": "@testing-library/jest-dom",
+      "allowedCategories": [
+        "production"
+      ]
+    },
+    {
+      "name": "@testing-library/react",
+      "allowedCategories": [
+        "production"
+      ]
+    },
+    {
+      "name": "@testing-library/user-event",
+      "allowedCategories": [
+        "production"
+      ]
+    },
+    {
+      "name": "@vitejs/plugin-react",
+      "allowedCategories": [
+        "tools"
+      ]
+    },
+    {
+      "name": "@vitejs/plugin-vue",
+      "allowedCategories": [
+        "production"
+      ]
+    },
+    {
+      "name": "react",
+      "allowedCategories": [
+        "production",
+        "tools"
+      ]
+    },
+    {
+      "name": "react-dom",
+      "allowedCategories": [
+        "production",
+        "tools"
+      ]
+    },
+    {
+      "name": "react-scripts",
+      "allowedCategories": [
+        "production"
+      ]
+    },
+    {
+      "name": "typescript",
+      "allowedCategories": [
+        "production",
+        "tools"
+      ]
+    },
+    {
+      "name": "vite",
+      "allowedCategories": [
+        "production",
+        "tools"
+      ]
+    },
+    {
+      "name": "vue",
+      "allowedCategories": [
+        "production"
+      ]
+    },
+    {
+      "name": "vue-tsc",
+      "allowedCategories": [
+        "production"
+      ]
+    },
+    {
+      "name": "web-vitals",
+      "allowedCategories": [
+        "production"
+      ]
+    }
+  ]
+}
